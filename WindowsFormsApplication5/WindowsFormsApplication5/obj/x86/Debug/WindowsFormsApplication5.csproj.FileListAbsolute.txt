@@ -1,0 +1,18 @@
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\OM\Desktop\manasi\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OM\Desktop\New folder (3)\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.write.1.tlog

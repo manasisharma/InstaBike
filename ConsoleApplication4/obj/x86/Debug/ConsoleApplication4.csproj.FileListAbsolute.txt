@@ -1,0 +1,14 @@
+C:\Users\sachin\documents\visual studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\sachin\documents\visual studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\sachin\documents\visual studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\sachin\documents\visual studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\sachin\Documents\Visual Studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\OM\Desktop\manasi\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\OM\Desktop\manasi\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\OM\Desktop\manasi\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\OM\Desktop\manasi\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\OM\Desktop\manasi\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\manasi\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\OM\Desktop\New folder (3)\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\OM\Desktop\New folder (3)\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\OM\Desktop\New folder (3)\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
